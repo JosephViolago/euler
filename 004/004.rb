@@ -1,7 +1,6 @@
 class Palindrome
 	def initialize(max_val)
 		$max = max_val
-		@products = {}
 	end
 
 	def getMax
@@ -13,11 +12,13 @@ class Palindrome
 			while $j > 99 do
 				$operations += 1
 				$product = $i * $j
-				# @hash["#{ $i }_#{ $j }"] = $product
 
-				if $product.to_s() == $product.to_s().reverse && $product > $max_product
+				if $product.to_s() == $product.to_s().reverse \
+					and $product > $max_product
+
 					puts "#{ $i } x #{ $j } = #{ $product }"
 					$max_product = $product;
+
 				end
 
 				$j -= 1
