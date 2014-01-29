@@ -6,3 +6,9 @@ Attempts to code the most inefficient & efficient algorithms.
 
 ### 002 - Even Fibonacci numbers
 - Perl
+
+### 003 - Largest prime factor
+- Python
+
+### 004 - Largest palindrome product
+- Ruby
