@@ -12,3 +12,12 @@ Attempts to code the most inefficient & efficient algorithms.
 
 ### 004 - Largest palindrome product
 - Ruby
+
+### 005 - Smallest multiple
+- Java
+
+### 006 - Sum square difference
+- PHP
+
+### 007 - 10001st prime
+- Python
