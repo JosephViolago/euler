@@ -39,3 +39,7 @@ Attempts to code the most inefficient & efficient algorithms.
 ### 009 - Special Pythagorean triplet
 
 - Python
+
+### 010 - Summation of primes
+
+- Python
